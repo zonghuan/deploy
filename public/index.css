@@ -1,0 +1,33 @@
+.run-btn{
+  position:absolute;
+  right:10px;
+  top:10px;
+  border-radius:0px 5px 0px 3px;
+  padding: 0 5px;
+}
+.run-btn:hover{
+  background-color: rgb(13, 179, 254);
+}
+.line{
+  line-height: 2em;
+  color: #fff;
+  text-indent: 1em;
+}
+.line-end{
+  color:yellow;
+  border-radius: 0 0 5px 5px;
+  background-color: #333;
+}
+.log{
+  width: 100%;
+  height: 500px;
+}
+.frame{
+  margin:10px;
+  display:flex;
+}
+.frame-box{
+  flex:1 0 600px;
+  padding:10px;
+  position:relative;
+}

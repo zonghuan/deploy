@@ -1,0 +1,10 @@
+{
+  "front":{
+    "text":"发布front",
+    "path":"../front"
+  },
+  "h5":{
+    "text":"发布h5",
+    "path":"../h5"
+  }
+}
